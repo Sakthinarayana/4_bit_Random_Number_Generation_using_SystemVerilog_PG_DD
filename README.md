@@ -77,6 +77,7 @@ endmodule
 ```
 
 ## OUTPUT 
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 090440" src="https://github.com/user-attachments/assets/4faa1f04-5c10-48b6-8433-337225449a3d" />
 
 ## RESULT 
 A SystemVerilog class was successfully designed with range constraints to generate 4-bit random numbers.
